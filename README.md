@@ -9,6 +9,6 @@ Welcome to the ultimate **Node.js & Express.js Full tutorial Course**, where you
 
 ## Follow Us
 
-[www.yahubaba.com](https://www.yoobaba.com)
+[www.yoobaba.com](https://www.yoobaba.com)
 
 [Youtube Channel](https://www.youtube.com/@yoo-baba)
